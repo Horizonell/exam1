@@ -1,0 +1,11 @@
+#heading{
+    color: khaki;
+    font-size: 30px;
+}
+.container{
+width: 500px;
+height: 500px;
+background-color: gray;
+padding: 20px;
+
+}
